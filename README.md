@@ -11,3 +11,11 @@ Resultados ya se pueden visualizar en el repositorio en Github.
 Para poder visualizar los gráficos en baja dimensionalidad, abrir el archivo en colab con el siguiente link:
 
 https://colab.research.google.com/drive/1oosYmiGFOOYgDvFUXS6IxpTHJHegy2yO?usp=sharing
+
+## Desafío 3
+
+Modelo en base a palabras:
+
+https://colab.research.google.com/drive/1UUsYZ8J8eWZR8cNYGV4s-iE2x7RdVE3G?usp=sharing
+
+Modelo en base a caracteres:
