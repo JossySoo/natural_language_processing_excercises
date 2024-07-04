@@ -2,7 +2,7 @@
 
 En este repositorio se encontrarán los archivos con los ejecicios resultos del curso de Procesamiento de Lenguaje Natural.
 
-Adicionalmente, estos archivos fueron trabajados desde Google Colab, por lo que se puede acceder a ellos directamente desde colab con los links abajo indicados. Estos links permitirán ver los resultados almacenados en Colab.
+Adicionalmente, estos archivos fueron trabajados desde Google Colab, por lo que se puede acceder a ellos directamente desde colab con los links abajo indicados. Estos links permitirán ver los resultados e imágenes almacenados en Colab.
 
 ## Desafío 1
 Resultados ya se pueden visualizar en el repositorio en Github.
@@ -27,3 +27,13 @@ https://colab.research.google.com/drive/1P4alTRgV3JaoSUP2JmQeoOZ57f54fzZ6?usp=sh
 Q&A bot:
 
 https://colab.research.google.com/drive/1Ipowf4kX6qgCNR1K1a-STQ_SB6z4R28I?usp=sharing
+
+## Desafío 5
+
+Modelo con 3 variables:
+
+https://colab.research.google.com/drive/11eFHvJa8NQh36YLmsd5AdTeTBm0-rexY?usp=sharing
+
+Modelo con 5 variables y con capa densa adicional:
+
+https://colab.research.google.com/drive/1S2ViBef6XkoyX-7pI-Dg8uW1fTOT9Txc?usp=sharing
