@@ -19,3 +19,5 @@ Modelo en base a palabras:
 https://colab.research.google.com/drive/1UUsYZ8J8eWZR8cNYGV4s-iE2x7RdVE3G?usp=sharing
 
 Modelo en base a caracteres:
+
+https://colab.research.google.com/drive/1P4alTRgV3JaoSUP2JmQeoOZ57f54fzZ6?usp=sharing
