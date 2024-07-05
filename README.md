@@ -32,8 +32,12 @@ https://colab.research.google.com/drive/1Ipowf4kX6qgCNR1K1a-STQ_SB6z4R28I?usp=sh
 
 Modelo con 3 variables:
 
-https://colab.research.google.com/drive/11eFHvJa8NQh36YLmsd5AdTeTBm0-rexY?usp=sharing
+https://colab.research.google.com/drive/1APRPP0XUd6DCn981LQczzGokvr7NpiLX?usp=sharing
+
+Modelo con 5 variables:
+
+https://colab.research.google.com/drive/1S2ViBef6XkoyX-7pI-Dg8uW1fTOT9Txc?usp=sharing
 
 Modelo con 5 variables y con capa densa adicional:
 
-https://colab.research.google.com/drive/1S2ViBef6XkoyX-7pI-Dg8uW1fTOT9Txc?usp=sharing
+https://colab.research.google.com/drive/1JyfQas_SVxvpHEqO2vGBQWjTV_M7JwuH?usp=sharing
